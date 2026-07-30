@@ -1,0 +1,11 @@
+lista = []
+nimi1 = str(input("Anna nimi: "))
+lista.append(nimi1)
+nimi2 = str(input("Anna toinen nimi: "))
+lista.append(nimi2)
+nimi3 = str(input("Anna kolmas nimi: "))
+lista.append(nimi3)
+nimi4 = str(input("Anna neljäs luku: "))
+lista.append(nimi4)
+nimi5 = str(input("Anna viides luku: "))
+print(lista[2])
