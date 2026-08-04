@@ -1,0 +1,15 @@
+for y in range(1, 11):
+    tulo1 = 1 * y
+    print(f"1 * {y} = {tulo1}")
+for k in range(1, 11):
+    tulo2 = 2 * k
+    print(f"2 * {k} = {tulo2}")
+for ko in range(1, 11):
+    tulo3 = 3 * ko
+    print(f"3 * {ko} = {tulo3}")
+for n in range(1, 11):
+    tulo4 = 4 * n
+    print(f"4 * {n} = {tulo4}")
+for v in range(1, 11):
+    tulo5 = 5 * v
+    print(f"5 * {v} = {tulo5}")
